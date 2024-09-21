@@ -5,5 +5,5 @@ You will need to provide your own "config.json" file with your own bot token.
 The file should look like that
 
 {
-  "token"= "Your discord bot token"
+  "token": "Your discord bot token"
 }
